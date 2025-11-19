@@ -38,4 +38,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prashantsingh072/my_leetcode01/tree/master/0225-implement-stack-using-queues) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/prashantsingh072/my_leetcode01/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
