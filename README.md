@@ -47,6 +47,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/prashantsingh072/my_leetcode01/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/prashantsingh072/my_leetcode01/tree/master/0196-delete-duplicate-emails) |
+| [0619-biggest-single-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0619-biggest-single-number) |
 ## Hash Table
 |  |
 | ------- |
