@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prashantsingh072/my_leetcode01/tree/master/0035-search-insert-position) |
+| [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/prashantsingh072/my_leetcode01/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -43,4 +45,12 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/prashantsingh072/my_leetcode01/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0181-employees-earning-more-than-their-managers) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
