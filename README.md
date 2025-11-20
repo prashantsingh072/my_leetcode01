@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -71,8 +73,21 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Simulation
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
