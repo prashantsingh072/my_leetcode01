@@ -8,6 +8,7 @@
 | [0136-single-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
