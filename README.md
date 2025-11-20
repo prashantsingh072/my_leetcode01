@@ -7,6 +7,7 @@
 | [0035-search-insert-position](https://github.com/prashantsingh072/my_leetcode01/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
@@ -53,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -63,4 +65,8 @@
 | ------- |
 | [0136-single-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0137-single-number-ii) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
