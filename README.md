@@ -66,6 +66,7 @@
 | [0577-employee-bonus](https://github.com/prashantsingh072/my_leetcode01/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/prashantsingh072/my_leetcode01/tree/master/0585-investments-in-2016) |
 | [0619-biggest-single-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0619-biggest-single-number) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/prashantsingh072/my_leetcode01/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Hash Table
 |  |
 | ------- |
