@@ -10,6 +10,7 @@
 | [0137-single-number-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prashantsingh072/my_leetcode01/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
@@ -80,6 +82,7 @@
 | ------- |
 | [0136-single-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
