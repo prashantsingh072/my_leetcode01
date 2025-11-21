@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/prashantsingh072/my_leetcode01/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/prashantsingh072/my_leetcode01/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
