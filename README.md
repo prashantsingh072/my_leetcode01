@@ -17,6 +17,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0002-add-two-numbers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
