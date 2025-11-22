@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/prashantsingh072/my_leetcode01/tree/master/0013-roman-to-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
@@ -47,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/prashantsingh072/my_leetcode01/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -77,6 +79,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/prashantsingh072/my_leetcode01/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
