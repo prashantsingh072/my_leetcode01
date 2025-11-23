@@ -16,6 +16,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0503-next-greater-element-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1470-shuffle-the-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/1929-concatenation-of-array) |
@@ -57,6 +58,7 @@
 | [0020-valid-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/prashantsingh072/my_leetcode01/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
