@@ -16,6 +16,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1470-shuffle-the-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/1929-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -105,6 +106,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sliding Window
 |  |
@@ -113,6 +115,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
@@ -134,4 +137,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/prashantsingh072/my_leetcode01/tree/master/0046-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/1262-greatest-sum-divisible-by-three) |
 <!---LeetCode Topics End-->
