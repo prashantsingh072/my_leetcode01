@@ -41,6 +41,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/prashantsingh072/my_leetcode01/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
@@ -52,6 +53,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/prashantsingh072/my_leetcode01/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0287-find-the-duplicate-number) |
@@ -127,6 +130,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/1929-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
