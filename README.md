@@ -85,6 +85,7 @@
 | [0585-investments-in-2016](https://github.com/prashantsingh072/my_leetcode01/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/prashantsingh072/my_leetcode01/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/prashantsingh072/my_leetcode01/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/prashantsingh072/my_leetcode01/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Hash Table
 |  |
