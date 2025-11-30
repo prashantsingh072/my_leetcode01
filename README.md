@@ -56,6 +56,7 @@
 | [0013-roman-to-integer](https://github.com/prashantsingh072/my_leetcode01/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
+| [1021-remove-outermost-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0225-implement-stack-using-queues](https://github.com/prashantsingh072/my_leetcode01/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0503-next-greater-element-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
