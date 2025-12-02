@@ -58,6 +58,7 @@
 | [0020-valid-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
 | [1021-remove-outermost-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantsingh072/my_leetcode01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantsingh072/my_leetcode01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
