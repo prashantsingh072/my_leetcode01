@@ -56,6 +56,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/prashantsingh072/my_leetcode01/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/prashantsingh072/my_leetcode01/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
 | [1021-remove-outermost-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantsingh072/my_leetcode01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
