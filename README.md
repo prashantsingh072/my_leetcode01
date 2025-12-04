@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/prashantsingh072/my_leetcode01/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -102,6 +103,7 @@
 | [0169-majority-element](https://github.com/prashantsingh072/my_leetcode01/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -127,6 +129,7 @@
 | [0088-merge-sorted-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prashantsingh072/my_leetcode01/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -175,4 +178,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prashantsingh072/my_leetcode01/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
