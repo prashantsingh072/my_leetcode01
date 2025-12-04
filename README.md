@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/prashantsingh072/my_leetcode01/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0287-find-the-duplicate-number) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prashantsingh072/my_leetcode01/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/prashantsingh072/my_leetcode01/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/prashantsingh072/my_leetcode01/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prashantsingh072/my_leetcode01/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -164,4 +167,12 @@
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/1262-greatest-sum-divisible-by-three) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prashantsingh072/my_leetcode01/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prashantsingh072/my_leetcode01/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
