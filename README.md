@@ -60,6 +60,7 @@
 | [0020-valid-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/prashantsingh072/my_leetcode01/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/prashantsingh072/my_leetcode01/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantsingh072/my_leetcode01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -106,6 +107,7 @@
 | [0229-majority-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/prashantsingh072/my_leetcode01/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -122,6 +124,7 @@
 | [0136-single-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/prashantsingh072/my_leetcode01/tree/master/0389-find-the-difference) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/prashantsingh072/my_leetcode01/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sorting
 |  |
@@ -132,6 +135,7 @@
 | [0229-majority-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/prashantsingh072/my_leetcode01/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
