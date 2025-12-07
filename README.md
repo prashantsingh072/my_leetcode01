@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prashantsingh072/my_leetcode01/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/prashantsingh072/my_leetcode01/tree/master/0046-permutations) |
@@ -31,6 +32,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prashantsingh072/my_leetcode01/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
@@ -192,6 +194,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/prashantsingh072/my_leetcode01/tree/master/0169-majority-element) |
 ## Counting
 |  |
