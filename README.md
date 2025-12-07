@@ -47,6 +47,7 @@
 | [0002-add-two-numbers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/prashantsingh072/my_leetcode01/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/prashantsingh072/my_leetcode01/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
