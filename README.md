@@ -27,6 +27,7 @@
 | [1929-concatenation-of-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/1929-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prashantsingh072/my_leetcode01/tree/master/2549-count-distinct-numbers-on-board) |
+| [2553-separate-the-digits-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/2553-separate-the-digits-in-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prashantsingh072/my_leetcode01/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -175,6 +176,7 @@
 | [1929-concatenation-of-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/1929-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/prashantsingh072/my_leetcode01/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prashantsingh072/my_leetcode01/tree/master/2549-count-distinct-numbers-on-board) |
+| [2553-separate-the-digits-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
