@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/prashantsingh072/my_leetcode01/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/prashantsingh072/my_leetcode01/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0503-next-greater-element-ii) |
@@ -206,4 +207,16 @@
 | [0169-majority-element](https://github.com/prashantsingh072/my_leetcode01/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashantsingh072/my_leetcode01/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
