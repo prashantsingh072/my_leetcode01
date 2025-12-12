@@ -35,6 +35,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prashantsingh072/my_leetcode01/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/prashantsingh072/my_leetcode01/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -141,6 +142,7 @@
 | [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/prashantsingh072/my_leetcode01/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/prashantsingh072/my_leetcode01/tree/master/0389-find-the-difference) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/prashantsingh072/my_leetcode01/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -223,4 +226,5 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/prashantsingh072/my_leetcode01/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
