@@ -53,6 +53,7 @@
 | [0013-roman-to-integer](https://github.com/prashantsingh072/my_leetcode01/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0371-sum-of-two-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prashantsingh072/my_leetcode01/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/prashantsingh072/my_leetcode01/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/prashantsingh072/my_leetcode01/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -147,6 +148,7 @@
 | [0371-sum-of-two-integers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/prashantsingh072/my_leetcode01/tree/master/0389-find-the-difference) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/prashantsingh072/my_leetcode01/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1486-xor-operation-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
