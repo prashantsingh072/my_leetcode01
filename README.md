@@ -219,21 +219,28 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/prashantsingh072/my_leetcode01/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/prashantsingh072/my_leetcode01/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/prashantsingh072/my_leetcode01/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/prashantsingh072/my_leetcode01/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/prashantsingh072/my_leetcode01/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0700-search-in-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/prashantsingh072/my_leetcode01/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
