@@ -1,8 +1,6 @@
 class Solution {
 public:
     int sumOfLeftLeaves(TreeNode* root) {
-        if (!root) return 0;
-
         int sum = 0;
         stack<TreeNode*> st;
         st.push(root);
