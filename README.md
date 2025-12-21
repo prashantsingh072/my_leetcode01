@@ -223,6 +223,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/prashantsingh072/my_leetcode01/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/prashantsingh072/my_leetcode01/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/prashantsingh072/my_leetcode01/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -243,11 +244,13 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/prashantsingh072/my_leetcode01/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/prashantsingh072/my_leetcode01/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/prashantsingh072/my_leetcode01/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/prashantsingh072/my_leetcode01/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
