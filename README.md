@@ -226,6 +226,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/prashantsingh072/my_leetcode01/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/prashantsingh072/my_leetcode01/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prashantsingh072/my_leetcode01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/prashantsingh072/my_leetcode01/tree/master/0404-sum-of-left-leaves) |
+| [0938-range-sum-of-bst](https://github.com/prashantsingh072/my_leetcode01/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -247,12 +249,14 @@
 | [0450-delete-node-in-a-bst](https://github.com/prashantsingh072/my_leetcode01/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/prashantsingh072/my_leetcode01/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/prashantsingh072/my_leetcode01/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/prashantsingh072/my_leetcode01/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
