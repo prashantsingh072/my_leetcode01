@@ -76,6 +76,7 @@
 | [0389-find-the-difference](https://github.com/prashantsingh072/my_leetcode01/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/prashantsingh072/my_leetcode01/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantsingh072/my_leetcode01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3794-reverse-string-prefix](https://github.com/prashantsingh072/my_leetcode01/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [0287-find-the-duplicate-number](https://github.com/prashantsingh072/my_leetcode01/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prashantsingh072/my_leetcode01/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantsingh072/my_leetcode01/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3794-reverse-string-prefix](https://github.com/prashantsingh072/my_leetcode01/tree/master/3794-reverse-string-prefix) |
 ## Backtracking
 |  |
 | ------- |
