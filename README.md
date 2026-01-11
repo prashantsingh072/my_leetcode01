@@ -52,6 +52,7 @@
 | [0002-add-two-numbers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/prashantsingh072/my_leetcode01/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/prashantsingh072/my_leetcode01/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/prashantsingh072/my_leetcode01/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prashantsingh072/my_leetcode01/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prashantsingh072/my_leetcode01/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/prashantsingh072/my_leetcode01/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/prashantsingh072/my_leetcode01/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/prashantsingh072/my_leetcode01/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/prashantsingh072/my_leetcode01/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -277,4 +279,8 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/prashantsingh072/my_leetcode01/tree/master/0404-sum-of-left-leaves) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/prashantsingh072/my_leetcode01/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prashantsingh072/my_leetcode01/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
