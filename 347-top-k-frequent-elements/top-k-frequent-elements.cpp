@@ -5,7 +5,7 @@ public:
         vector<pair<int, int>> v; 
         int n = nums.size();
         int count = 1;
-        for (int i = 1; i < n; i++) {
+        for(int i = 1; i < n; i++) {
             if (nums[i] == nums[i - 1]) {
                 count++;
             } else {
